@@ -1,0 +1,6 @@
+{
+  "name": "HabitQuest",
+  "description": "Turn your daily habits into an epic RPG adventure with quests, stats, boss battles, and cross-device cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
