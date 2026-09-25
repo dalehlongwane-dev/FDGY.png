@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169104672788",
+    "project_id": "habit-quest-271a8",
+    "storage_bucket": "habit-quest-271a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169104672788:android:dcbb8885a16a12e40abf01",
+        "android_client_info": {
+          "package_name": "Habit.Quest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDin38mO3yBeG_KnpSojTX9g58IefCwbi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
